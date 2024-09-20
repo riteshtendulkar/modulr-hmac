@@ -1,4 +1,4 @@
-scalaVersion := "2.13.13"
+scalaVersion := "2.13.15"
 
 name := "modulr-hmac-example"
 organization := "ch.epfl.scala"
