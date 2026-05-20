@@ -21,6 +21,7 @@ Samples directory contain sample code for the following languages:
 - [C++](#c-1)
 - [C\#](#c-2)
 - [Golang](#golang)
+- [Powershell](#powershell)
 ---
 
 ### Java
@@ -400,3 +401,11 @@ If successful, this will generate a standard map with the keys being the headers
         fmt.Println(key, ":", element)
     }
 ```
+
+### Powershell
+
+#### [modulr_api.ps1](samples/powershell/modulr_api.ps1)
+This script is an example of how to use Powershell to generate the required headers for a given API key and secret,
+and to call the API with those values. The intent is for this to be used for testing purposes
+or data setup against Modulr's Sandbox APIs.
+---
