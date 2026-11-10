@@ -1,4 +1,4 @@
-scalaVersion := "3.8.3"
+scalaVersion := "3.10.1"
 
 name := "modulr-hmac-example"
 organization := "com.modulrfinance"
